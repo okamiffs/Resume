@@ -1,0 +1,1 @@
+Added a short description of myself aswell as a link to my github.
